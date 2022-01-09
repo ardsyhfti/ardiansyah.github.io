@@ -1,1 +1,1 @@
-#Ini Adalah kalkulator
+# ini adalah kalkulator
